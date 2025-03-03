@@ -210,6 +210,14 @@ ul ul {
 
 ![](imgs/lifeCourse.png){fig-align="center" width="327"}
 
+------------------------------------------------------------------------
+
+## [4]{.circle} [**The Life Course Perspective**]{style="color: teal;"}
+
+- Health is **cumulative** and shaped over a lifetime
+- Early-life exposures impact later health outcomes
+- Critical periods: Childhood, adolescence, pregnancy
+- Protective and risk factors evolve through different life stages
 
 ------------------------------------------------------------------------
 
@@ -233,6 +241,9 @@ ul ul {
 
 ![](imgs/waffleExposure.jpeg){fig-align="center" width="327"}
 
+
+
+
 ------------------------------------------------------------------------
 
 ## [4]{.circle} [**The Life Course Perspective**]{style="color: teal;"}
@@ -241,6 +252,69 @@ ul ul {
 - *Bill Davenhall* from ESRI
 
 
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Biopsychosocial Model**]{style="color: teal;"}
+
+- Health is influenced by **biological, psychological, and social factors**
+- **Biological:** Genetics, immune function, neurobiology
+- **Psychological:** Stress, behavior, cognition
+- **Social:** Environment, socioeconomic status, relationships
+- **Interaction:** These domains interact dynamically, shaping health outcomes
+
+------------------------------------------------------------------------
+
+## [5]{.circle} [**Biopsychosocial Model**]{style="color: teal;"}
+
+![](imgs/BiopsychosocialModel.jpg){fig-align="center" width="327"}
+
+
+
+## [**Pathways from Determinants to Health Outcomes**]{style="color: teal;"}
+
+
+- **Upstream Determinants** (e.g., policy, environment) → 
+- **Intermediate Factors** (e.g., behaviors, stress) → 
+- **Downstream Outcomes** (e.g., disease, mortality)
+- Example: **Socioeconomic Status → Diet & Stress → Cardiovascular Health**
+
+
+------------------------------------------------------------------------
+
+# [**Pathway Analysis**]{style="color: teal;"}
+
+- How do **various determinants interact** to influence health outcomes?
+- **Mediators:** Factors that explain part of the relationship (e.g., stress mediates poverty → health)
+- **Moderators:** Factors that modify the strength of the relationship (e.g., social support buffers stress effects)
+- **Example:** Education → Health Literacy → Better Health Management
+
+
+
+
+# [**Pathway Analysis**]{style="color: teal;"}
+![](imgs/mediatorModerator.jpg){fig-align="center" width="327"}
+
+
+# [**Pathway Analysis**]{style="color: teal;"}
+
+![](imgs/mediatorOnly.jpg){fig-align="center" width="327"}
+
+
+# [**Pathway Analysis**]{style="color: teal;"}
+
+![](imgs/moderatorOnly.jpg){fig-align="center" width="327"}
+
+
+
+## [**Nonlinear Dynamics & Health**]{style="color: teal;"}
+
+
+- Health systems are **complex and nonlinear**
+- **Feedback Loops:** 
+  - Positive: Obesity → Inflammation → More Obesity
+  - Negative: Stress → Social Support → Stress Reduction
+- **Threshold Effects:** Small changes can lead to sudden shifts
+  - Example: Chronic stress accumulation suddenly leading to burnout or illness
 
 
 # [**Policy Implications & Future Directions**]{style="color: teal;"}
@@ -268,6 +342,6 @@ ul ul {
 - 1. What social determinants impact your own health?
 - 2. How can policies create healthier communities?
 
-------------------------------------------------------------------------
+
 
 # [**Thank you!**]{style="color: teal;"}
