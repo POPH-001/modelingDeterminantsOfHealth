@@ -1,6 +1,6 @@
 ---
 title: "Modeling Determinants of Population Health"
-subtitle: "Chapter 4 <br> Eric Delmelle <br> Feb 26 2025"
+subtitle: "Chapter 4 <br> Eric Delmelle <br> October 2 2025"
 format: revealjs
 ---
 
@@ -110,7 +110,8 @@ ul ul {
 - **Cultural Competency:** Healthcare providers must address diverse patient needs.
 - **Example:** Rural communities often experience healthcare shortages, leading to untreated conditions.
 
-------------------------------------------------------------------------
+
+
 
 # [**Why Do We Need Health Determinant Models?**]{style="color: teal;"}
 
@@ -248,7 +249,7 @@ ul ul {
 
 ## [4]{.circle} [**The Life Course Perspective**]{style="color: teal;"}
 
-- **Can geographic information keep you healthy?** [youtube-link](https://www.tedmed.com/talks/show?id=7195)
+- **Can geographic information keep you healthy?** [youtube-link](https://www.ted.com/talks/bill_davenhall_your_health_depends_on_where_you_live)
 - *Bill Davenhall* from ESRI
 
 
@@ -279,7 +280,6 @@ ul ul {
 - Example: **Socioeconomic Status → Diet & Stress → Cardiovascular Health**
 
 
-------------------------------------------------------------------------
 
 # [**Pathway Analysis**]{style="color: teal;"}
 
